@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/components/OtherProduct.jsx", "app/components/MoreDoorIdeas.jsx", "app/components/ImageSwiper.jsx", "app/components/CallForm.jsx", "app/components/Sidebar.jsx"  ],
   "exclude": ["node_modules"]
 }
